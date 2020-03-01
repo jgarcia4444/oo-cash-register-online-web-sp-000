@@ -8,4 +8,7 @@ class CashRegister
     @discount = dicount
   end
 
+  def total
+  end
+
 end
