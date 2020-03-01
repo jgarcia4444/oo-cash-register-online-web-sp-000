@@ -1,9 +1,9 @@
 
 class CashRegister
 
-  def initialize(employee_dicount=20)
+  def initialize(dicount=20)
     @total = 0
-    @discount = employee_dicount
+    @discount = dicount
   end
 
 end
